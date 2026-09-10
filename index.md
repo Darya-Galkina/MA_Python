@@ -13,7 +13,7 @@
 |Дата|Тема|Ссылки на материалы|ДЗ после семинара|
 |---|---|---|---|
 |02.09|Введение: типы данных, среда и интерпретатор, форматирование кода, условия|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/1_intro.ipynb)| |
-|9.09|Введение: списки, кортежи, циклы for и while|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/2_intro.ipynb)| |
+|9.09|Введение: списки, кортежи, цикл for|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/2_intro.ipynb)|[ДЗ1](https://github.com/Darya-Galkina/MA_Python/blob/main/hw1.ipynb)|
 |16.09|Введение: словари и множества. Лабораторная работа 1.|[]()| |
 |23.09|Введение: функции|[]()| |
 |30.09| |[]()| |
