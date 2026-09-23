@@ -15,7 +15,7 @@
 |02.09|Введение: типы данных, среда и интерпретатор, форматирование кода, условия|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/1_intro.ipynb)| |
 |9.09|Введение: списки, кортежи, цикл for|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/2_intro.ipynb)|[ДЗ1](https://github.com/Darya-Galkina/MA_Python/blob/main/hw1.ipynb)|
 |16.09|Введение: цикл while, словари и множества. [Лабораторная работа 1.](https://github.com/Darya-Galkina/MA_Python/blob/main/lr1.ipynb)|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/3_intro.ipynb)| |
-|23.09|Введение: функции. Разбор лабораторной работы. Практика|[]()| |
+|23.09|Введение: функции. Разбор лабораторной работы. Практика|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/4_intro.ipynb)| |
 |30.09| |[]()| |
 |7.10| |[]()| |
 |14.10| |[]()| |
