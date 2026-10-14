@@ -17,8 +17,8 @@
 |16.09|Введение: цикл while, словари и множества. [Лабораторная работа 1.](https://github.com/Darya-Galkina/MA_Python/blob/main/lr1.ipynb)|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/3_intro.ipynb)| |
 |23.09|Введение: функции. Разбор лабораторной работы. Практика|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/4_intro.ipynb)|[ДЗ2](https://github.com/Darya-Galkina/MA_Python/blob/main/hw2.ipynb)|
 |30.09|Введение: лямбда-функции. [Лабораторная работа 2.](https://github.com/Darya-Galkina/MA_Python/blob/main/lr2.ipynb)|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/5_intro.ipynb)| |
-|7.10| |[]()| |
-|14.10| |[]()| |
+|7.10|Pandas|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/6_pandas.ipynb)| |
+|14.10|Парсинг JSON, HTML. [Лабораторная работа 3.](https://github.com/Darya-Galkina/MA_Python/blob/main/lr1.ipynb)|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/lr3.ipynb)| |
 |21.10| |[]()| |
 |Сессия 1 модуля| |[]()| |
 |11.11| |[]()| |
