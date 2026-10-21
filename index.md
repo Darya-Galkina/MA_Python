@@ -19,7 +19,7 @@
 |30.09|Введение: лямбда-функции. [Лабораторная работа 2.](https://github.com/Darya-Galkina/MA_Python/blob/main/lr2.ipynb)|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/5_intro.ipynb)| |
 |7.10|Pandas|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/6_pandas.ipynb)| |
 |14.10|Парсинг JSON, HTML. [Лабораторная работа 3.](https://github.com/Darya-Galkina/MA_Python/blob/main/lr1.ipynb)|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/lr3.ipynb)| |
-|21.10| |[]()| |
+|21.10|Краулинг|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/8_crawling.ipynb)| |
 |Сессия 1 модуля| |[]()| |
 |11.11| |[]()| |
 |18.11| |[]()| |
