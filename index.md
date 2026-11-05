@@ -21,7 +21,8 @@
 |14.10|Парсинг JSON, HTML. [Лабораторная работа 3.](https://github.com/Darya-Galkina/MA_Python/blob/main/lr1.ipynb)|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/lr3.ipynb)| |
 |21.10|Краулинг|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/8_crawling.ipynb)| |
 |Сессия 1 модуля| |[]()| |
-|11.11| |[]()| |
+|05.11|Количественный текстовый анализ: токенизация, лемматизация, регулярные выражения|[Тетрадка.](https://github.com/Darya-Galkina/MA_Python/blob/main/9_text_analysis.ipynb) [Данные](https://github.com/Darya-Galkina/MA_Python/blob/main/data.zip)| |
+|11.11||| |
 |18.11| |[]()| |
 |25.11| |[]()| |
 |02.12| |[]()| |
