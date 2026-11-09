@@ -41,5 +41,65 @@
 ### Домашние задания и лабораторные работы
 Лабораторные работы выполняются во время аудиторных занятий и должны быть сданы не позднее 21:00 в день проведения л/р. Домашние задания принимаются до мягкого дедлайна (указанного в плане) без снижения оценки, а затем с понижением оценки за работу в 2 раза до жесткого дедлайна (жёсткий дедлайн первого модуля — начало сессии). Досдача домашнего задания после жёсткого дедлайна не предусмотрена.
 
+
 ### Критерии оценивания итогового проекта
-Защита финального проекта представляет собой презентацию проведённого исследования. Формат сдачи: тетрадка с кодом и текстовыми комментариями. В случае неявки на защиту за проект выставляется 0 баллов. В случае неудачной защиты оценка за проект может быть снижена по усмотрению преподавателя. 
+Защита финального проекта представляет собой презентацию законченного исследования, включающего этап предобработки данных, анализа (текстовые паттерны, сетевой анализ, тематического моделирование, компьютерное зрение и тд.) и визуализации результатов с их критической интерпретацией. Формат сдачи: тетрадка с кодом и текстовыми комментариями / статический сайт. В случае неявки на защиту за проект выставляется 0 баллов. **По результатам защиты оценка за проект умножается на коэффициент (от 0 до 1), отражающий степень владения материалом (по усмотрению преподавателя).** За что можно набрать баллы (max 10): 
+
+|Критерий|балл|
+|---|---|
+| Сбор корпуса (вручную или web-scraping) | 0,5 балла |
+| Использование DH-методов анализа данных, качество кода |max 2 балла за метод, не более 4 баллов за критерий |
+| Интерпретация результатов, описание ограничений и перспектив и тд. | max 3 балла |
+| Не менее двух обоснованных визуализаций и комментарии к ним | 1 балл |
+| Публикация результатов (достаточно статического сайта Quarto) | 0,5 балла |
+| Удивил(-а) преподавателя | max 1 балл |
+
+### Дополнительная литература
+- [Цифровые гуманитарные исследования: монография / А. Б. Антопольский, А. А. Бонч-­Осмоловская, Л. И. Бородкин [и др.]. — Красноярск: Сиб. федер. ун-­т, 2023. — 272 с.](https://www.hist.msu.ru/upload/iblock/fd1/i-494468.pdf)
+- [Парад цифровых гуманитарных проектов : монография / А. Е. Арефьев, Т. А. Базарова, Е. В. Баранова [и др.] ; отв. ред. А. Ю. Володин ; Сибирский федеральный университет.](https://bik.sfu-kras.ru/elib/view?id=BOOK1-ББК71%2FП+180-445824)
+- [Страница цифрового (и не только) филолога Б. Орехова. ](https://nevmenandr.github.io/portfolio/publications/) [И ещё одна.](https://nevmenandr.github.io/#DH) 
+- [Сайт исследователя интернета Полины Колозариди](https://kolozaridi.ru)
+- [Сайт цифрового филолога Теда Андервуда](https://tedunderwood.com)
+- [He X., Lashkari A.H., et al. Authorship Attribution Methods, Challenges, and Future Research Directions: A Comprehensive Survey // Information](https://www.mdpi.com/2078-2489/15/3/131) - обзор методов атрибуции текстов
+- [Anna Shadrova. Topic models do not model topics: epistemological remarks and steps towards best practices // Journal of Data Mining and Digital Humanities](https://jdmdh.episciences.org/8608/pdf) - статья про ограничения метода тематического моделирования
+- [Страница исследователя Мэтью Джокерса](https://www.matthewjockers.net/2015/02/02/syuzhet/) - пост про применение метода анализа эмоциональной тональности для типологии нарративной структуры текстов
+- [Примеры количественных исследований живописи](https://colourlex.com/project/computational-analysis-of-paintings/)
+
+### Грузди — это хорошо, но лучше радозди (полезно-развлекательное)
+- [Журнал "Системный Блокъ"](https://sysblok.ru)
+- [Семинар "Цифровая среда"](https://dhri.ru/projects/sreda/) - есть записи
+- [Телеграм-канал DH-центра СФУ](https://t.me/DHRIsfu)
+- [Телеграм-канал DH CLOUD](https://t.me/dhcloud)
+- [Телеграм-канал Б.В. Орехова](https://t.me/schonenrede)
+- [(Цифровой) философ О.В. Алиева об античности на языке R - телеграм-канал](https://t.me/rantiquity)
+- [Нескучно о работе с данными](https://datasittersclub.github.io/tldr/books/tldr2/)
+
+### Журналы по DH
+- [Journal of Computational Literary Studies (JCLS)](https://jcls.io/) 
+- [Digital Humanities Quarterly (DHQ)](http://www.digitalhumanities.org/dhq/)
+- [Digital Studies / Le champ numérique](https://www.digitalstudies.org/)
+- [Journal of Cultural Analytics](https://culturalanalytics.org/)
+- [International Journal of Digital Humanities](https://link.springer.com/journal/42803)
+- [Digital Scholarship in the Humanities](https://academic.oup.com/dsh?login=false)
+- [International Journal of Humanities and Arts Computing](https://www.euppublishing.com/loi/ijhac)
+- [Digital Medievalist](https://journal.digitalmedievalist.org/)
+- [Цифровые гуманитарные исследования](https://pushkinskijdom.ru/zhurnal-tsifrovye-issledovaniya/)
+
+### Корпуса текстов и другие датасеты для количественных исследований
+- [Многоязычный корпус драмы DraCor](​​https://dracor.org/)
+- [Репозиторий открытых даных по русской литературе и фольклору](https://dataverse.pushdom.ru/dataverse/openlit)
+- [Роспись содержания советских толстых журналов, 1955—1990 (Новый Мир, Октябрь, Наш Современник, Звезда, Знамя, Юность)](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2024.6-B016)
+- [Корпус нарративной прозы XIX в.](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2020.10-C004)
+- [Корпус «русской песни» 1800—1840-х гг.](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2019.11-C003)
+- [Корпус русских элегий](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2019.11-C001)
+- [Программы по литературе средней школы 20 в.](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2022.9-B006), [статьи](https://sysblok.ru/literary-canon/)
+- [«Тематика фельетонов о Новом Поэте и ее диахронические трансформации»: данные и код для воспроизведения исследования](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2024.4-R006)
+- [Корпус русской прозы для детей и юношества](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2021.4-C001)
+- [Корпус публикаций журнала «Современник» (1847–1866)](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2023.11-C006)
+- [Replication Data for: How Exactly does Literary Content Depend on Genre? A Case Study of Animals in Children’s Literature](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2023.10-R005), [статья](https://ceur-ws.org/Vol-3558/paper1346.pdf)
+- [Код и данные для воспроизведения исследования: «Сто лет счастья в детской литературе (1920—2020): сталинский канон и его долгосрочные последствия»](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2022.8-R004)
+- [Персонажи «Войны и мира» Л. Н. Толстого: вхождения в тексте, прямая речь и семантические роли](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2022.1-C005)
+- [Данные для воспроизведения исследования: Домашние дела литературных персонажей](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2022.4-R003)
+- [Маршрут путешествия в поэме И. П. Мятлева «Сенсации и замечания госпожи Курдюковой за границею, дан л'этранже»](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2023.4-G003)
+- [Фотограммархив](https://sysblok.ru/interviews/svetlana-podrezova-o-kollekcii-audiozapisei-pushkinskogo-doma-i-rabote-s-istochnikami/)
+
