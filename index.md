@@ -22,7 +22,7 @@
 |21.10|Краулинг|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/8_crawling.ipynb)| |
 |Сессия 1 модуля| |[]()| |
 |05.11|Количественный текстовый анализ: токенизация, лемматизация, регулярные выражения|[Тетрадка.](https://github.com/Darya-Galkina/MA_Python/blob/main/9_text_analysis.ipynb) [Данные](https://github.com/Darya-Galkina/MA_Python/blob/main/data.zip)| |
-|11.11||| |
+|11.11|Повторение (заново скачайте тетрадку №9). Векторная семантика. |[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/10_vector_sem.ipynb)|[ДЗ4.](https://github.com/Darya-Galkina/MA_Python/blob/main/hw4.ipynb) [Данные](https://github.com/Darya-Galkina/MA_Python/blob/main/erdman.txt)|
 |18.11| |[]()| |
 |25.11| |[]()| |
 |02.12| |[]()| |
