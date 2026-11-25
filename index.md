@@ -27,7 +27,7 @@
 |25.11|Стилометрия|[Тетрадка.](https://github.com/Darya-Galkina/MA_Python/blob/main/11_stylometry.ipynb) [Данные](https://github.com/Darya-Galkina/MA_Python/blob/main/data_stylo.zip)|[ДЗ5.](https://github.com/Darya-Galkina/MA_Python/blob/main/hw5.ipynb) [Данные](https://github.com/Darya-Galkina/MA_Python/blob/main/iliad.zip)|
 |02.12| |[]()| |
 |09.12| |[]()| |
-|16.12| |[]()| |
+|16.12|Скрам-игра! Для участия надо посмотреть [лекцию](https://disk.360.yandex.ru/i/nZlAz1RKnFkvVQ)|[]()| |
 |17.12| |[]()| |
 |Сессия 2 модуля| Защита проектов| | |
 
