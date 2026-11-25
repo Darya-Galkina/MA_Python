@@ -24,7 +24,7 @@
 |05.11|Количественный текстовый анализ: токенизация, лемматизация, регулярные выражения|[Тетрадка.](https://github.com/Darya-Galkina/MA_Python/blob/main/9_text_analysis.ipynb) [Данные](https://github.com/Darya-Galkina/MA_Python/blob/main/data.zip)| |
 |11.11|Повторение. Векторная семантика. |[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/10_vector_sem.ipynb)|[ДЗ4.](https://github.com/Darya-Galkina/MA_Python/blob/main/hw4.ipynb) [Данные](https://github.com/Darya-Galkina/MA_Python/blob/main/erdman.txt)|
 |18.11|Векторная семантика: Word2Vec. [Лабораторная работа 4](https://github.com/Darya-Galkina/MA_Python/blob/main/lr4.ipynb)|[Тетрадка](https://github.com/Darya-Galkina/MA_Python/blob/main/10_vector_sem.ipynb)| |
-|25.11|Стилометрия|[Тетрадка.](https://github.com/Darya-Galkina/MA_Python/blob/main/11_stylometry.ipynb) [](https://github.com/Darya-Galkina/MA_Python/blob/main/data_stylo.zip)]|[ДЗ5.](https://github.com/Darya-Galkina/MA_Python/blob/main/hw5.ipynb) [Данные](https://github.com/Darya-Galkina/MA_Python/blob/main/iliad.zip)|
+|25.11|Стилометрия|[Тетрадка.](https://github.com/Darya-Galkina/MA_Python/blob/main/11_stylometry.ipynb) [Данные](https://github.com/Darya-Galkina/MA_Python/blob/main/data_stylo.zip)|[ДЗ5.](https://github.com/Darya-Galkina/MA_Python/blob/main/hw5.ipynb) [Данные](https://github.com/Darya-Galkina/MA_Python/blob/main/iliad.zip)|
 |02.12| |[]()| |
 |09.12| |[]()| |
 |16.12| |[]()| |
